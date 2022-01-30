@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Github Image](https://avatars.githubusercontent.com/u/64075088?v=4)
